@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: backend.siddharthdevops.study
+    - host: backend.thelaughingbuddha.store
       http:
         paths:
           - path: /api
